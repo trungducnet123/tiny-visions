@@ -12,7 +12,7 @@ export default function Navbar({ activeLink = '' }) {
         <li className='font-bold mr-auto text-palette-c-accent'>
           <a href='/'>
             <Logo />
-            Tiny Visions
+            Kabastro Visions
           </a>
         </li>
 
@@ -60,7 +60,7 @@ export default function Navbar({ activeLink = '' }) {
         <li className='font-bold mr-auto text-palette-c-accent'>
           <a href='/'>
             <Logo />
-            Tiny Visions
+            Kabastro Visions
           </a>
         </li>
 

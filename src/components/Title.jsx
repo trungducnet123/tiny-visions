@@ -4,7 +4,7 @@ export default function Title() {
   return (
     <header className='flex relative gap-12 justify-center my-8 py-8 px-4 sm:px-12 items-center sm:text-2xl md:mr-32'>
       <article className='relative z-10 max-w-2xl'>
-        <h1 className='text-4xl mb-2'>Tiny Visions</h1>
+        <h1 className='text-4xl mb-2'>Kabastro Visions</h1>
         <p>
           Delve into an immersive world, exploring the mysteries of the universe
           as you gain insights into your past, present, and future. Our site

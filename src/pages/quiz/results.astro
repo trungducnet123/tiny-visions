@@ -18,7 +18,7 @@ const mappedCardData = cards.map((data) => {
 import '@src/styles/init.css';
 ---
 
-<Layout title='Tiny Visions - Quiz Results'>
+<Layout title='Kabastro Visions - Quiz Results'>
   <Navbar client:load activeLink='quiz' />
   <Divider />
   <QuizResults client:only quiz={quiz} cardData={mappedCardData} />

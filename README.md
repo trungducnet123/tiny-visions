@@ -1,8 +1,8 @@
-# Tiny Visions
+# Kabastro Visions
 
 ## Introduction
 
-**Tiny Visions** is a front-end web app aiming to create a simple, minimalistic experience for tarot card readings and quizzes.
+**Kabastro Visions** is a front-end web app aiming to create a simple, minimalistic experience for tarot card readings and quizzes.
 
 Within this site, you may try out a quiz, as well as a one-card reading or three-card reading. You may also view a catalogue of each tarot card to view its artwork and interpretations.
 

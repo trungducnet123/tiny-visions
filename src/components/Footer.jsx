@@ -4,14 +4,12 @@ export default function Footer() {
     <footer className='flex flex-col'>
       <aside className='p-8 md:rounded-md max-w-5xl mx-auto bg-palette-c-darker'>
         <p>
-          You can use the link below to visit the GitHub repository for this
-          project.
+          You can visit Kabastro.com to see more useful information.
         </p>
         <a
           className='text-palette-c-accent'
           target='_blank'
-          rel='noreferrer'
-          href='https://github.com/quev-dev/tiny-visions'
+          href='https://kabastro.com/'
         >
           tiny-visions
         </a>
