@@ -11,7 +11,7 @@ export default function Footer() {
           target='_blank'
           href='https://kabastro.com/'
         >
-          tiny-visions
+          Kabastro.com >>
         </a>
       </aside>
       <div className='my-12'>
